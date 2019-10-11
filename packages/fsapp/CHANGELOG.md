@@ -3,6 +3,156 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [8.1.1-rnn2.0](https://github.com/brandingbrand/flagship/compare/v7.4.1...v8.1.1-rnn2.0) (2019-10-11)
+
+
+### Bug Fixes
+
+* **fsapp:** RNN v2 allow passing static styling as a function ([2af339b](https://github.com/brandingbrand/flagship/commit/2af339b))
+
+
+### Features
+
+* update fsapp to use react-native-navigation 2 ([4a2740f](https://github.com/brandingbrand/flagship/commit/4a2740f))
+
+
+### BREAKING CHANGES
+
+* Tabs must now have ids defined in their configuration
+
+
+
+
+
+## [7.4.1](https://github.com/brandingbrand/flagship/compare/v7.4.0...v7.4.1) (2019-10-09)
+
+**Note:** Version bump only for package @brandingbrand/fsapp
+
+
+
+
+
+# [7.4.0](https://github.com/brandingbrand/flagship/compare/v7.3.0...v7.4.0) (2019-10-08)
+
+**Note:** Version bump only for package @brandingbrand/fsapp
+
+
+
+
+
+# [7.3.0](https://github.com/brandingbrand/flagship/compare/v7.2.0...v7.3.0) (2019-10-08)
+
+
+### Bug Fixes
+
+* Development version number should be fixed to the bottom of viewport for web ([c978511](https://github.com/brandingbrand/flagship/commit/c978511))
+
+
+
+
+
+# [7.2.0](https://github.com/brandingbrand/flagship/compare/v7.1.1...v7.2.0) (2019-10-07)
+
+**Note:** Version bump only for package @brandingbrand/fsapp
+
+
+
+
+
+## [7.1.1](https://github.com/brandingbrand/flagship/compare/v7.1.0...v7.1.1) (2019-10-04)
+
+**Note:** Version bump only for package @brandingbrand/fsapp
+
+
+
+
+
+# [7.1.0](https://github.com/brandingbrand/flagship/compare/v7.0.0...v7.1.0) (2019-10-02)
+
+**Note:** Version bump only for package @brandingbrand/fsapp
+
+
+
+
+
+# [7.0.0](https://github.com/brandingbrand/flagship/compare/v6.3.0...v7.0.0) (2019-09-27)
+
+
+### Bug Fixes
+
+* **flagship:** Remove deprecated lifecycle functions ([0c56274](https://github.com/brandingbrand/flagship/commit/0c56274))
+
+
+
+
+
+# [6.3.0](https://github.com/brandingbrand/flagship/compare/v6.2.0...v6.3.0) (2019-09-23)
+
+**Note:** Version bump only for package @brandingbrand/fsapp
+
+
+
+
+
+# [6.2.0](https://github.com/brandingbrand/flagship/compare/v6.1.4...v6.2.0) (2019-09-19)
+
+
+### Features
+
+* **fsapp:** Track whether the drawer is visible ([#814](https://github.com/brandingbrand/flagship/issues/814)) ([e2f22d4](https://github.com/brandingbrand/flagship/commit/e2f22d4))
+
+
+
+
+
+## [6.1.4](https://github.com/brandingbrand/flagship/compare/v6.1.3...v6.1.4) (2019-09-17)
+
+**Note:** Version bump only for package @brandingbrand/fsapp
+
+
+
+
+
+## [6.1.3](https://github.com/brandingbrand/flagship/compare/v6.1.2...v6.1.3) (2019-09-12)
+
+**Note:** Version bump only for package @brandingbrand/fsapp
+
+
+
+
+
+## [6.1.2](https://github.com/brandingbrand/flagship/compare/v6.1.1...v6.1.2) (2019-09-12)
+
+**Note:** Version bump only for package @brandingbrand/fsapp
+
+
+
+
+
+## [6.1.1](https://github.com/brandingbrand/flagship/compare/v6.1.0...v6.1.1) (2019-09-12)
+
+**Note:** Version bump only for package @brandingbrand/fsapp
+
+
+
+
+
+# [6.1.0](https://github.com/brandingbrand/flagship/compare/v6.0.0...v6.1.0) (2019-09-10)
+
+**Note:** Version bump only for package @brandingbrand/fsapp
+
+
+
+
+
+# [6.0.0](https://github.com/brandingbrand/flagship/compare/v5.3.0...v6.0.0) (2019-09-04)
+
+**Note:** Version bump only for package @brandingbrand/fsapp
+
+
+
+
+
 # [5.3.0](https://github.com/brandingbrand/flagship/compare/v5.2.0...v5.3.0) (2019-08-23)
 
 **Note:** Version bump only for package @brandingbrand/fsapp

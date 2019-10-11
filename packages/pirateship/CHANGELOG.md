@@ -3,6 +3,147 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [8.1.1-rnn2.0](https://github.com/brandingbrand/flagship/compare/v7.4.1...v8.1.1-rnn2.0) (2019-10-11)
+
+
+### Features
+
+* update pirateship to use react-native-navigation 2 ([b1a1747](https://github.com/brandingbrand/flagship/commit/b1a1747))
+
+
+
+
+
+## [7.4.1](https://github.com/brandingbrand/flagship/compare/v7.4.0...v7.4.1) (2019-10-09)
+
+**Note:** Version bump only for package @brandingbrand/pirateship
+
+
+
+
+
+# [7.4.0](https://github.com/brandingbrand/flagship/compare/v7.3.0...v7.4.0) (2019-10-08)
+
+**Note:** Version bump only for package @brandingbrand/pirateship
+
+
+
+
+
+# [7.3.0](https://github.com/brandingbrand/flagship/compare/v7.2.0...v7.3.0) (2019-10-08)
+
+**Note:** Version bump only for package @brandingbrand/pirateship
+
+
+
+
+
+# [7.2.0](https://github.com/brandingbrand/flagship/compare/v7.1.1...v7.2.0) (2019-10-07)
+
+
+### Bug Fixes
+
+* Gridlines are misaligned between products in Product Index	[#143](https://github.com/brandingbrand/flagship/issues/143) ([7053202](https://github.com/brandingbrand/flagship/commit/7053202))
+
+
+
+
+
+## [7.1.1](https://github.com/brandingbrand/flagship/compare/v7.1.0...v7.1.1) (2019-10-04)
+
+**Note:** Version bump only for package @brandingbrand/pirateship
+
+
+
+
+
+# [7.1.0](https://github.com/brandingbrand/flagship/compare/v7.0.0...v7.1.0) (2019-10-02)
+
+**Note:** Version bump only for package @brandingbrand/pirateship
+
+
+
+
+
+# [7.0.0](https://github.com/brandingbrand/flagship/compare/v6.3.0...v7.0.0) (2019-09-27)
+
+
+### Bug Fixes
+
+* **flagship:** Remove deprecated lifecycle functions ([0c56274](https://github.com/brandingbrand/flagship/commit/0c56274))
+* **pirateship:** Use componentDidUpdate in PSProductDetail ([ab061e3](https://github.com/brandingbrand/flagship/commit/ab061e3))
+
+
+
+
+
+# [6.3.0](https://github.com/brandingbrand/flagship/compare/v6.2.0...v6.3.0) (2019-09-23)
+
+**Note:** Version bump only for package @brandingbrand/pirateship
+
+
+
+
+
+# [6.2.0](https://github.com/brandingbrand/flagship/compare/v6.1.4...v6.2.0) (2019-09-19)
+
+
+### Bug Fixes
+
+* **pirateship:** Fixes for blacklist and linking Windows slashes ([cec5535](https://github.com/brandingbrand/flagship/commit/cec5535))
+
+
+
+
+
+## [6.1.4](https://github.com/brandingbrand/flagship/compare/v6.1.3...v6.1.4) (2019-09-17)
+
+**Note:** Version bump only for package @brandingbrand/pirateship
+
+
+
+
+
+## [6.1.3](https://github.com/brandingbrand/flagship/compare/v6.1.2...v6.1.3) (2019-09-12)
+
+**Note:** Version bump only for package @brandingbrand/pirateship
+
+
+
+
+
+## [6.1.2](https://github.com/brandingbrand/flagship/compare/v6.1.1...v6.1.2) (2019-09-12)
+
+**Note:** Version bump only for package @brandingbrand/pirateship
+
+
+
+
+
+## [6.1.1](https://github.com/brandingbrand/flagship/compare/v6.1.0...v6.1.1) (2019-09-12)
+
+**Note:** Version bump only for package @brandingbrand/pirateship
+
+
+
+
+
+# [6.1.0](https://github.com/brandingbrand/flagship/compare/v6.0.0...v6.1.0) (2019-09-10)
+
+**Note:** Version bump only for package @brandingbrand/pirateship
+
+
+
+
+
+# [6.0.0](https://github.com/brandingbrand/flagship/compare/v5.3.0...v6.0.0) (2019-09-04)
+
+**Note:** Version bump only for package @brandingbrand/pirateship
+
+
+
+
+
 # [5.3.0](https://github.com/brandingbrand/flagship/compare/v5.2.0...v5.3.0) (2019-08-23)
 
 **Note:** Version bump only for package @brandingbrand/pirateship

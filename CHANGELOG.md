@@ -3,6 +3,277 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [8.1.1-rnn2.0](https://github.com/brandingbrand/flagship/compare/v7.4.1...v8.1.1-rnn2.0) (2019-10-11)
+
+
+### Bug Fixes
+
+* fix codepush integration with RNN v2 ([591ce6c](https://github.com/brandingbrand/flagship/commit/591ce6c))
+* **flagship:** Fix overwriting launch screen file ([b29d851](https://github.com/brandingbrand/flagship/commit/b29d851))
+* **fsapp:** RNN v2 allow passing static styling as a function ([2af339b](https://github.com/brandingbrand/flagship/commit/2af339b))
+* **fsengagement:** RNN2 - fix deeplinking animations from story ([#871](https://github.com/brandingbrand/flagship/issues/871)) ([f8edd22](https://github.com/brandingbrand/flagship/commit/f8edd22))
+
+
+### Features
+
+* **fsengagement:** add gridwall and product carousel ([#816](https://github.com/brandingbrand/flagship/issues/816)) ([f009afc](https://github.com/brandingbrand/flagship/commit/f009afc))
+* setup native side of android for react-native-navigation 2 ([3298744](https://github.com/brandingbrand/flagship/commit/3298744))
+* **fsengagement:** add gesture handler for full screen cards ([c7d78f4](https://github.com/brandingbrand/flagship/commit/c7d78f4))
+* **fsengagement:** add gestures and animations ([a8ef3d6](https://github.com/brandingbrand/flagship/commit/a8ef3d6))
+* **fsengagement:** add gridwall and product carousel ([f684e7a](https://github.com/brandingbrand/flagship/commit/f684e7a))
+* **fsengagement:** add new zones ([2f92df0](https://github.com/brandingbrand/flagship/commit/2f92df0))
+* **fsengagement:** add support for video on title card ([829b58a](https://github.com/brandingbrand/flagship/commit/829b58a))
+* **fsengagement:** adjust gesture handler ([24cfcea](https://github.com/brandingbrand/flagship/commit/24cfcea))
+* **fsengagement:** cache last update + add isNew flag to each message ([34b5984](https://github.com/brandingbrand/flagship/commit/34b5984))
+* setup native side of ios for react-native-navigation 2 ([9515589](https://github.com/brandingbrand/flagship/commit/9515589))
+* update fsapp to use react-native-navigation 2 ([4a2740f](https://github.com/brandingbrand/flagship/commit/4a2740f))
+* update pirateship to use react-native-navigation 2 ([b1a1747](https://github.com/brandingbrand/flagship/commit/b1a1747))
+* **fsengagement:** fix typo ([ccf453b](https://github.com/brandingbrand/flagship/commit/ccf453b))
+* **fsengagement:** fix yarn.lock ([33fc504](https://github.com/brandingbrand/flagship/commit/33fc504))
+* **fsengagement:** move panhandler to constructor ([f4a5832](https://github.com/brandingbrand/flagship/commit/f4a5832))
+
+
+### BREAKING CHANGES
+
+* Tabs must now have ids defined in their configuration
+* splash screens will need to be converted to storyboards
+
+
+
+
+
+## [7.4.1](https://github.com/brandingbrand/flagship/compare/v7.4.0...v7.4.1) (2019-10-09)
+
+
+### Bug Fixes
+
+* **flagship:** add support for new pods ([d2a0c28](https://github.com/brandingbrand/flagship/commit/d2a0c28))
+
+
+
+
+
+# [7.4.0](https://github.com/brandingbrand/flagship/compare/v7.3.0...v7.4.0) (2019-10-08)
+
+
+### Bug Fixes
+
+* **flagship:** update string replace to work in new fastfile ([#864](https://github.com/brandingbrand/flagship/issues/864)) ([ae6b368](https://github.com/brandingbrand/flagship/commit/ae6b368))
+
+
+### Features
+
+* **fsengagement:** expose new inbox route that sets attributes ([21fe454](https://github.com/brandingbrand/flagship/commit/21fe454))
+* **fsengagement:** remove moment library ([e15bfb1](https://github.com/brandingbrand/flagship/commit/e15bfb1))
+
+
+
+
+
+# [7.3.0](https://github.com/brandingbrand/flagship/compare/v7.2.0...v7.3.0) (2019-10-08)
+
+
+### Bug Fixes
+
+* Development version number should be fixed to the bottom of viewport for web ([c978511](https://github.com/brandingbrand/flagship/commit/c978511))
+
+
+### Features
+
+* add appcenter support to fastlane scripts ([00ede00](https://github.com/brandingbrand/flagship/commit/00ede00))
+* add position property for half modal component ([9fb3e76](https://github.com/brandingbrand/flagship/commit/9fb3e76))
+
+
+
+
+
+# [7.2.0](https://github.com/brandingbrand/flagship/compare/v7.1.1...v7.2.0) (2019-10-07)
+
+
+### Bug Fixes
+
+* **flagship:** ios background modes returning undefine ([70d93ce](https://github.com/brandingbrand/flagship/commit/70d93ce))
+* create SyndicationIndicator component, simplify conditional ([96ad754](https://github.com/brandingbrand/flagship/commit/96ad754))
+* excessive calls of handleContainerSizeChange in MultiCarousel ([7d820ba](https://github.com/brandingbrand/flagship/commit/7d820ba))
+* fix infinite re-render bug when using renderSyndicatedIndicator prop ([ef03df5](https://github.com/brandingbrand/flagship/commit/ef03df5))
+* Gridlines are misaligned between products in Product Index	[#143](https://github.com/brandingbrand/flagship/issues/143) ([7053202](https://github.com/brandingbrand/flagship/commit/7053202))
+* remove unused function ([ff8ea15](https://github.com/brandingbrand/flagship/commit/ff8ea15))
+
+
+### Features
+
+* **flagship:** support background modes ([1088366](https://github.com/brandingbrand/flagship/commit/1088366))
+
+
+
+
+
+## [7.1.1](https://github.com/brandingbrand/flagship/compare/v7.1.0...v7.1.1) (2019-10-04)
+
+
+### Bug Fixes
+
+* **fscomponents:** add arg to bv syndication badge render prop ([36d435f](https://github.com/brandingbrand/flagship/commit/36d435f))
+
+
+
+
+
+# [7.1.0](https://github.com/brandingbrand/flagship/compare/v7.0.0...v7.1.0) (2019-10-02)
+
+
+### Features
+
+* update bv syndicated indicator style ([3f706e3](https://github.com/brandingbrand/flagship/commit/3f706e3))
+
+
+
+
+
+# [7.0.0](https://github.com/brandingbrand/flagship/compare/v6.3.0...v7.0.0) (2019-09-27)
+
+
+### Bug Fixes
+
+* **flagship:** Make android namespace match package name ([e53e362](https://github.com/brandingbrand/flagship/commit/e53e362))
+* **flagship:** Remove deprecated lifecycle functions ([0c56274](https://github.com/brandingbrand/flagship/commit/0c56274))
+* **fscomponents:** flatten validation for cc number to onblur ([175aabe](https://github.com/brandingbrand/flagship/commit/175aabe))
+* **fsweb:** Fix slashes for running web on Windows ([189309e](https://github.com/brandingbrand/flagship/commit/189309e))
+* **fsweb:** Lock web dependency versions ([810e7c4](https://github.com/brandingbrand/flagship/commit/810e7c4))
+* **fsweb:** Match routers path-to-regexp ([5fcaf33](https://github.com/brandingbrand/flagship/commit/5fcaf33))
+* **pirateship:** Use componentDidUpdate in PSProductDetail ([ab061e3](https://github.com/brandingbrand/flagship/commit/ab061e3))
+
+
+### Features
+
+* android init config ([d5ef942](https://github.com/brandingbrand/flagship/commit/d5ef942))
+* **fsweb:** Enable Progressive Web App ([4a0eebb](https://github.com/brandingbrand/flagship/commit/4a0eebb)), closes [#620](https://github.com/brandingbrand/flagship/issues/620)
+* update bv components w/ syndicated indicator ([9239ada](https://github.com/brandingbrand/flagship/commit/9239ada))
+
+
+### BREAKING CHANGES
+
+* **flagship:** If anything hard codes the android native project path (ie.
+android/app/src/main/java/com/brandingbrand/reactnative/and/project-name), it will need to be
+updated to account for the dynamic package name. Flagship now exports its own modules, so
+`flagship.path.android.nativeProjectPath(config)` can be used to get the directory without hard
+coding a path.
+
+
+
+
+
+# [6.3.0](https://github.com/brandingbrand/flagship/compare/v6.2.0...v6.3.0) (2019-09-23)
+
+
+### Features
+
+* **fsnetwork:** Add option for interceptor ([#808](https://github.com/brandingbrand/flagship/issues/808)) ([4c12c24](https://github.com/brandingbrand/flagship/commit/4c12c24))
+
+
+
+
+
+# [6.2.0](https://github.com/brandingbrand/flagship/compare/v6.1.4...v6.2.0) (2019-09-19)
+
+
+### Bug Fixes
+
+* **fsweb:** tag type of css bundle ([05d3a44](https://github.com/brandingbrand/flagship/commit/05d3a44))
+* **pirateship:** Fixes for blacklist and linking Windows slashes ([cec5535](https://github.com/brandingbrand/flagship/commit/cec5535))
+* bump leanplum sdk version ([#823](https://github.com/brandingbrand/flagship/issues/823)) ([2b378c9](https://github.com/brandingbrand/flagship/commit/2b378c9))
+
+
+### Features
+
+* **fsapp:** Track whether the drawer is visible ([#814](https://github.com/brandingbrand/flagship/issues/814)) ([e2f22d4](https://github.com/brandingbrand/flagship/commit/e2f22d4))
+
+
+
+
+
+## [6.1.4](https://github.com/brandingbrand/flagship/compare/v6.1.3...v6.1.4) (2019-09-17)
+
+
+### Bug Fixes
+
+* fix network security config for android emulators ([#817](https://github.com/brandingbrand/flagship/issues/817)) ([1b78195](https://github.com/brandingbrand/flagship/commit/1b78195))
+
+
+
+
+
+## [6.1.3](https://github.com/brandingbrand/flagship/compare/v6.1.2...v6.1.3) (2019-09-12)
+
+**Note:** Version bump only for package flagship_deploy
+
+
+
+
+
+## [6.1.2](https://github.com/brandingbrand/flagship/compare/v6.1.1...v6.1.2) (2019-09-12)
+
+**Note:** Version bump only for package flagship_deploy
+
+
+
+
+
+## [6.1.1](https://github.com/brandingbrand/flagship/compare/v6.1.0...v6.1.1) (2019-09-12)
+
+
+### Bug Fixes
+
+* **create-fs-app:** fix run cmd for android with certain bundleIds ([99a3822](https://github.com/brandingbrand/flagship/commit/99a3822))
+* **fsweb:** Lock webpack version to 4.39.3 ([995ebd1](https://github.com/brandingbrand/flagship/commit/995ebd1))
+
+
+
+
+
+# [6.1.0](https://github.com/brandingbrand/flagship/compare/v6.0.0...v6.1.0) (2019-09-10)
+
+
+### Bug Fixes
+
+* Add check that script is running on node 10 or above ([c03cd6f](https://github.com/brandingbrand/flagship/commit/c03cd6f))
+* Add more stubbed configs ([0cde81d](https://github.com/brandingbrand/flagship/commit/0cde81d))
+* Fix app name config key ([85f167e](https://github.com/brandingbrand/flagship/commit/85f167e))
+* Fix types and name variable for package.json ([118c63b](https://github.com/brandingbrand/flagship/commit/118c63b))
+* Remove launch screen base config option ([5bc7af6](https://github.com/brandingbrand/flagship/commit/5bc7af6))
+* Remove template config when writing a new one ([bf6e514](https://github.com/brandingbrand/flagship/commit/bf6e514))
+
+
+### Features
+
+* Add create-fs-app functionality ([9dddddb](https://github.com/brandingbrand/flagship/commit/9dddddb))
+
+
+
+
+
+# [6.0.0](https://github.com/brandingbrand/flagship/compare/v5.3.0...v6.0.0) (2019-09-04)
+
+
+### Bug Fixes
+
+* **fscomponents:** fix price/originalPrice comparison ([0f9447f](https://github.com/brandingbrand/flagship/commit/0f9447f))
+
+
+### Features
+
+* **fsengagement:** add fullscreen video option ([6a3a3a7](https://github.com/brandingbrand/flagship/commit/6a3a3a7))
+
+
+### BREAKING CHANGES
+
+* **fscomponents:** Under the default render behavior, originalPrice will no longer be displayed unless
+it is actually different from price.
+
+
+
+
+
 # [5.3.0](https://github.com/brandingbrand/flagship/compare/v5.2.0...v5.3.0) (2019-08-23)
 
 

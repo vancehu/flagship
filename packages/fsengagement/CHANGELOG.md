@@ -3,6 +3,160 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [8.1.1-rnn2.0](https://github.com/brandingbrand/flagship/compare/v7.4.1...v8.1.1-rnn2.0) (2019-10-11)
+
+
+### Bug Fixes
+
+* **fsengagement:** RNN2 - fix deeplinking animations from story ([#871](https://github.com/brandingbrand/flagship/issues/871)) ([f8edd22](https://github.com/brandingbrand/flagship/commit/f8edd22))
+
+
+### Features
+
+* **fsengagement:** add gesture handler for full screen cards ([c7d78f4](https://github.com/brandingbrand/flagship/commit/c7d78f4))
+* **fsengagement:** add gestures and animations ([a8ef3d6](https://github.com/brandingbrand/flagship/commit/a8ef3d6))
+* **fsengagement:** add gridwall and product carousel ([f684e7a](https://github.com/brandingbrand/flagship/commit/f684e7a))
+* **fsengagement:** add gridwall and product carousel ([a2c7fa8](https://github.com/brandingbrand/flagship/commit/a2c7fa8))
+* **fsengagement:** add gridwall and product carousel ([#816](https://github.com/brandingbrand/flagship/issues/816)) ([f009afc](https://github.com/brandingbrand/flagship/commit/f009afc))
+* **fsengagement:** add new zones ([2f92df0](https://github.com/brandingbrand/flagship/commit/2f92df0))
+* **fsengagement:** add support for video on title card ([829b58a](https://github.com/brandingbrand/flagship/commit/829b58a))
+* **fsengagement:** adjust gesture handler ([24cfcea](https://github.com/brandingbrand/flagship/commit/24cfcea))
+* **fsengagement:** cache last update + add isNew flag to each message ([34b5984](https://github.com/brandingbrand/flagship/commit/34b5984))
+* **fsengagement:** fix merge conflicts ([7ca2f03](https://github.com/brandingbrand/flagship/commit/7ca2f03))
+* **fsengagement:** fix typo ([ccf453b](https://github.com/brandingbrand/flagship/commit/ccf453b))
+* **fsengagement:** move panhandler to constructor ([f4a5832](https://github.com/brandingbrand/flagship/commit/f4a5832))
+
+
+
+
+
+## [7.4.1](https://github.com/brandingbrand/flagship/compare/v7.4.0...v7.4.1) (2019-10-09)
+
+**Note:** Version bump only for package @brandingbrand/fsengagement
+
+
+
+
+
+# [7.4.0](https://github.com/brandingbrand/flagship/compare/v7.3.0...v7.4.0) (2019-10-08)
+
+
+### Features
+
+* **fsengagement:** expose new inbox route that sets attributes ([21fe454](https://github.com/brandingbrand/flagship/commit/21fe454))
+* **fsengagement:** remove moment library ([e15bfb1](https://github.com/brandingbrand/flagship/commit/e15bfb1))
+
+
+
+
+
+# [7.3.0](https://github.com/brandingbrand/flagship/compare/v7.2.0...v7.3.0) (2019-10-08)
+
+**Note:** Version bump only for package @brandingbrand/fsengagement
+
+
+
+
+
+# [7.2.0](https://github.com/brandingbrand/flagship/compare/v7.1.1...v7.2.0) (2019-10-07)
+
+**Note:** Version bump only for package @brandingbrand/fsengagement
+
+
+
+
+
+## [7.1.1](https://github.com/brandingbrand/flagship/compare/v7.1.0...v7.1.1) (2019-10-04)
+
+**Note:** Version bump only for package @brandingbrand/fsengagement
+
+
+
+
+
+# [7.1.0](https://github.com/brandingbrand/flagship/compare/v7.0.0...v7.1.0) (2019-10-02)
+
+**Note:** Version bump only for package @brandingbrand/fsengagement
+
+
+
+
+
+# [7.0.0](https://github.com/brandingbrand/flagship/compare/v6.3.0...v7.0.0) (2019-09-27)
+
+**Note:** Version bump only for package @brandingbrand/fsengagement
+
+
+
+
+
+# [6.3.0](https://github.com/brandingbrand/flagship/compare/v6.2.0...v6.3.0) (2019-09-23)
+
+**Note:** Version bump only for package @brandingbrand/fsengagement
+
+
+
+
+
+# [6.2.0](https://github.com/brandingbrand/flagship/compare/v6.1.4...v6.2.0) (2019-09-19)
+
+**Note:** Version bump only for package @brandingbrand/fsengagement
+
+
+
+
+
+## [6.1.4](https://github.com/brandingbrand/flagship/compare/v6.1.3...v6.1.4) (2019-09-17)
+
+**Note:** Version bump only for package @brandingbrand/fsengagement
+
+
+
+
+
+## [6.1.3](https://github.com/brandingbrand/flagship/compare/v6.1.2...v6.1.3) (2019-09-12)
+
+**Note:** Version bump only for package @brandingbrand/fsengagement
+
+
+
+
+
+## [6.1.2](https://github.com/brandingbrand/flagship/compare/v6.1.1...v6.1.2) (2019-09-12)
+
+**Note:** Version bump only for package @brandingbrand/fsengagement
+
+
+
+
+
+## [6.1.1](https://github.com/brandingbrand/flagship/compare/v6.1.0...v6.1.1) (2019-09-12)
+
+**Note:** Version bump only for package @brandingbrand/fsengagement
+
+
+
+
+
+# [6.1.0](https://github.com/brandingbrand/flagship/compare/v6.0.0...v6.1.0) (2019-09-10)
+
+**Note:** Version bump only for package @brandingbrand/fsengagement
+
+
+
+
+
+# [6.0.0](https://github.com/brandingbrand/flagship/compare/v5.3.0...v6.0.0) (2019-09-04)
+
+
+### Features
+
+* **fsengagement:** add fullscreen video option ([6a3a3a7](https://github.com/brandingbrand/flagship/commit/6a3a3a7))
+
+
+
+
+
 # [5.3.0](https://github.com/brandingbrand/flagship/compare/v5.2.0...v5.3.0) (2019-08-23)
 
 
